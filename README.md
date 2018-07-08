@@ -1,6 +1,6 @@
 # Phantasm
 
-My GameDevelopmentWorkshop game from my third year at UOIT.
+My Game Development Workshop game from my third year at UOIT.
 
 An asymmetrical cooperative survival game.
 
